@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bahianita&family=Pattaya&display=swap');
+/*font-family: 'Bahianita', cursive;
+font-family: 'Pattaya', sans-serif;'*/
+.container {
+  width: 600px;
+  margin: 10px auto;
+  padding: 20px;
+  background:#002731a2;
+  color: white;
+}
+.title {
+font-family: 'Bahianita', cursive;
+}
+.para {
+  font-family: Pattaya,Sans-Serif;
+  
+}
+.btn {
+  padding: 5px 10px;
+  color: white;
+  text-transform: uppercase;
+}
+.btn-primary {
+  background-color: blue;
+}
+.btn-secondary {
+  background-color: red;
+  
+}
