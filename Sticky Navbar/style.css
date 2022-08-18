@@ -3,3 +3,25 @@
   padding: 0;
   box-sizing: border-box;
 }
+.container .navbar{
+  width: 100vw;
+}
+.container{
+  background-color: deepskyblue;
+}
+h1 {
+  text-align: center;
+  color:white;
+}
+.navbar {
+  background-color: navy;
+  position: sticky;
+  top: 0;
+  padding: 10px;
+}
+.navbar p {
+  color:white;
+}
+.section p, body{
+  background-color: #f0f0f0;
+}
