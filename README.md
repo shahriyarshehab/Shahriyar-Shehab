@@ -54,7 +54,7 @@ Here is a [link](doc/author.md) to another markdown file!
 
 ### External Image
 
-![image not found](https://cloudaffaire.com/wp-content/uploads/2018/09/LOGO11.png "CloudAffaire")
+![image not found](https://picsum.photos/seed/picsum/200/300 "CloudAffaire")
 
 ### Anchor Image
 
@@ -62,7 +62,7 @@ Here is a [link](doc/author.md) to another markdown file!
 
 ### Resized Image
 
-<img src="images/cloudaffaire.png" alt="image not found" width="200" height="200"/>
+<img src="https://picsum.photos/seed/picsum/200/300" alt="image not found" width="200" height="200"/>
 
 ## Ordered List
 
@@ -105,7 +105,7 @@ class HelloWorld {
 }
 ```
 
-Same java code with syntax highlight
+# Same java code with syntax highlight
 ```java
 class HelloWorld {
     public static void main(String[] args) {
